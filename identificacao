@@ -1,0 +1,54 @@
+<div style="font-size: 10pt; font-family: Verdana, Geneva, sans-serif;">
+  <table style="background: #fff; border: 15px solid transparent; border-image: linear-gradient(to right, orange 50%, blue 50%) 1; padding: 40px 0;" width="100%" cellspacing="0" cellpadding="0">
+    <tbody>
+      <tr>
+        <td align="center">
+          <table style="background-color: #ffffff; border: 1px solid #ccc; color: #333333; line-height: 1.6;" width="700" cellspacing="0" cellpadding="20">
+            <tbody>
+              <tr>
+                <td style="font-size: 22px; font-weight: bold; color: #ae8d31; padding-bottom: 20px;" align="center">
+                  Confirmação Condicionada à Identificação da Empresa
+                </td>
+              </tr>
+              <tr>
+                <td style="font-size: 16px;">
+                  <p>Prezada Equipe de Recrutamento,</p>
+                  <p>Boa tarde!</p>
+                  <p>Agradeço pelo contato e pelo interesse demonstrado em meu perfil profissional.</p>
+                  <p>No entanto, antes de agendar qualquer entrevista ou reunião, gostaria de solicitar que a empresa contratante se identifique previamente com as seguintes informações:</p>
+                  <ul>
+                    <li>Nome da empresa ou marca envolvida no processo</li>
+                    <li>Área de atuação</li>
+                    <li>Local ou formato da vaga (remoto/presencial)</li>
+                  </ul>
+                  <p>Essa identificação é fundamental para que eu possa alinhar minhas expectativas, valores e interesses profissionais com os da organização.</p>
+                  <p>Para facilitar esse contato inicial, peço a gentileza de enviar essas informações diretamente para meu WhatsApp. Para isso, basta clicar no botão abaixo:</p>
+
+                  <p style="text-align: center;">
+                    <a style="display: inline-block; background-color: #25D366; color: #ffffff; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 16px;" href="https://wa.me/5511948793902?text=Estou%20entrando%20em%20contato%20a%20respeito%20de%20entrevista%20de%20emprego." target="_blank" rel="noopener noreferrer">
+                      📱 Enviar Mensagem no WhatsApp
+                    </a>
+                  </p>
+
+                  <p>Desde já, agradeço pela compreensão e aguardo o retorno para darmos andamento ao processo seletivo.</p>
+                </td>
+              </tr>
+              <tr>
+                <td style="padding-top: 30px; font-size: 16px;">
+                  <p>Atenciosamente,</p>
+                  <img style="max-width: 220px; display: block; margin: 10px auto 10px auto;" src="https://alemaodacapa.com.br/img2/Assinatura_de_leonardo_frederico_de_paula.svg.png" alt="Assinatura Leonardo Frederico de Paula" />
+                  <p style="text-align: center; margin-top: 10px;">
+                    <strong>Leonardo Frederico de Paula</strong><br />
+                    CPF: 426.975.538-51<br />
+                    Celular / WhatsApp: +55 (11) 94879-3902<br />
+                    E-mail: sistema19913c@gmail.com
+                  </p>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
